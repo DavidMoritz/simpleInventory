@@ -1,2 +1,3 @@
-# simpleInventory
-Implement simple inventory with Sails
+# lckr
+
+a [Sails](http://sailsjs.org) application
