@@ -1,3 +1,4 @@
-# Simple Inventory
+# lokr
 
-a [Sails](http://sailsjs.org) application
+1. npm install
+2. sails lift
