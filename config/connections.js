@@ -40,7 +40,7 @@ module.exports.connections = {
   * Run: npm install sails-mysql                                             *
   *                                                                          *
   ***************************************************************************/
-  someMysqlServer: {
+  awsRdsServer: {
     adapter: 'sails-mysql',
     host: 'lokr.chyand5to2a0.us-west-2.rds.amazonaws.com',
     port: 3306,
